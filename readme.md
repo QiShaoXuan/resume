@@ -23,8 +23,11 @@
 
 ## 工作经历
 
+- 2016.07 ~ 2017.01 山西超线程信息科技有限公司
+  -  web前端开发工程师
+
 - 2017.03 ~ 至今 - 上海垓方网络科技有限公司
-  担任前端组长一职，
+  - 前端开发组组长
 
 ## 项目经验
 
@@ -49,38 +52,39 @@
 ### 环保管家
 
 1. 技术栈
-   vue，element
+   - vue，element
 
 2. 职责
-   - 封装表单，模态框，提示等组件
-   - router，vuex等文件组织
+   - 大量表单录入的部分，使用 nodejs 处理 JSON 文件，实现自动翻译
+   - 针对业务，基于 axios 二次封装
+   - 封装表单，编写模态框，提示等公共组件
+   - 组织 router，vuex 等文件
 
 3. 描述
-   松江环保项目。用于企业的环评数据录入及审核。
+   - 松江环保项目。用于企业的环评数据录入及审核。
 
 ### 美丽家园
 
 1. 技术栈
-   vue, cesiumjs
+   - vue, cesiumjs
 
 2. 职责
-   - 在vue框架中接入 cesiumjs，添加坐标点，飞行动画等
-   - ckplayer接入监控视频流
+   - 在 vue 中接入 cesiumjs，并基于 cesiumjs 二次封装，添加坐标点，飞行动画，测量工具等插件。
+   - 使用 ckplayer 接入监控视频流，实现视频监控实时预览。
+   - 编写拖拽工具，实现多窗口监控预览
 
 3. 描述
-   泰晤士小镇物业管理系统。用于实时监控小区设备，重点单位等状态，提供人员预警，车辆预警等。
-
-   该项目UI部分为外包制作，本人主要负责cesiumjs接入及监控视频流引入及维护。
-
+   - 泰晤士小镇物业智能管理系统。用于实时监控小区设备，重点单位等状态，展示车位信息，提供人员预警，车辆预警等。
+  
 ### 资管平台
 
 1. 技术栈
-   jquery, sass, bootstrap，gulp, thinkphp3模板系统
+   - jquery, sass, bootstrap，gulp, thinkphp3 模板语法
 
 2. 职责
    - 编写 gulp 打包工具
-   - 以 thinkphp3 模板系统在html页面进行数据嵌套
-   - 编写树状图、自定义表单等jquery插件
+   - 以 thinkphp3 模板语法在 html 页面进行数据嵌套
+   - 编写树状图、自定义表单等 jquery 插件
    - videojs 引入监控视频流
 
 3. 描述
@@ -89,19 +93,19 @@
 ### 全景编辑器
 
 1. 技术栈
-   jquery, krpano
+   - jquery, krpano
 
 2. 职责
-   - 编写操作界面
-   - 在网页中接入 kropano，实现对全景图片的编辑
+   - 编写操作界面，优化操作流程
+   - 基于 kropano 提供的接口，实现沙盘，热点，视角等全景编辑方式。
 
 3. 描述
-   公司内部使用的全景编辑器，基于kropano提供的接口，实现对全景图片的视角，热点，沙盘，场景等内容的编辑。
+   - 公司内部使用的全景编辑器，基于kropano提供的接口，实现对全景图片的视角，热点，沙盘，场景等内容的编辑。
 
 ## 个人项目及作品
 
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
-  常用 CSS 总结
+  常用 CSS 总结
 
 - [JS Tricks](https://qishaoxuan.github.io/js_tricks/)
   常用 JS 方法总结
@@ -119,6 +123,6 @@
   原生 JS 编写的别踩白块游戏
 
 - [俄罗斯方块](https://github.com/QiShaoXuan/vue_tetris)
-  使用 vue 及 vuex 编写的俄罗斯方块游戏
+  使用 vue 及 vuex 编写的俄罗斯方块游戏
 
 ### 更多项目请移步[GitHub](https://github.com/QiShaoXuan)
