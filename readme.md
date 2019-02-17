@@ -123,6 +123,6 @@
   原生 JS 编写的别踩白块游戏
 
 - [俄罗斯方块](https://github.com/QiShaoXuan/vue_tetris)
-  使用 vue 及 vuex 编写的俄罗斯方块游戏
+  使用 vue 及 vuex 编写的俄罗斯方块游戏
 
 ### 更多项目请移步[GitHub](https://github.com/QiShaoXuan)
