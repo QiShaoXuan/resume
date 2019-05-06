@@ -39,6 +39,9 @@ and so on
 
 ## 个人项目及作品
 
+- [all list](https://github.com/QiShaoXuan/qishaoxuan.github.io)
+  平常无聊写的东西
+
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
   常用 CSS 总结
 
