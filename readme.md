@@ -2,7 +2,7 @@
 
 - 姓名：齐少轩
 - 毕业院校及专业：山西农业大学（2013.09 ~ 2017.06） - 信息与计算科学
-- 工作年限：毕业至今
+- 工作年限：三年
 - GitHub：https://github.com/QiShaoXuan
 - 技术博客：https://qishaoxuan.github.io/css_tricks/
 - 掘金主页：https://juejin.im/user/5b4b1f1c6fb9a04fa91bdf32/posts
@@ -15,25 +15,42 @@
 ## 相关技能
 
 - HTML，CSS，javascript，typescript
-- jQuery，vue，react 等前端库
+- jQuery，Vue.js，React.js 等前端库
 - bootstrap，element，antd 等快速开发工具
 - echart，mobileSelect，vuepress，better-scroll 等前端工具
 - threejs，cesiumjs 等 3d 模型开发库
 - 熟练使用 git，SVN 状态管理工具
 
-and so on
-
 ## 工作经历
 
 - 2016.07 ~ 2017.01 - 山西超线程信息科技有限公司
-  - web前端开发工程师
+  - web 前端开发工程师
 
 - 2017.03 ~ 2019.03 - 上海垓方网络科技有限公司
   - 前端开发组组长
   
 - 2019-03 ~ 至今 - FinxOS
+  - web 前端开发工程师
 
 ## 项目经验
+
+1. **中后台管理系统**
+
+   基于 React.js + gutenberg.js + echart.js + antd.js 搭建的管理系统，主要功能：支持金融机构编辑研报及各类图表，支持其发布为小程序，订阅号，移动端 H5 页面，并提供相应的访问权限，统计及定制化。其中主要负责报告相关部分的研发。
+
+   1. 基于 gutenberg.js 搭建的富文本编辑器
+
+      - 增加提纲，编辑历史等功能
+
+      - 根据实际业务增加图表编辑，文件上传，列表等多个模块，并对已有模块进行优化。
+      - 支持自定义样式地导出为便签（图片），word，发布至订阅号及小程序，同时负责word，订阅号，小程序等各端解析。
+
+   2. 
+
+
+
+
+
 
 
 
