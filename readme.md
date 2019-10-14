@@ -51,6 +51,7 @@
    3. 各个功能模块及页面实现
    
 2. **秒图**
+
       微信小程序项目
 
       1. 配合 echart.js，支持自定义生成数据
@@ -132,9 +133,6 @@
 
 ## 个人项目及作品
 
-- [all list](https://github.com/QiShaoXuan/qishaoxuan.github.io)
-  平常无聊写的东西
-
 - [CSS Tricks](https://qishaoxuan.github.io/css_tricks/)
   常用 CSS 总结
 
@@ -155,5 +153,8 @@
 
 - [俄罗斯方块](https://github.com/QiShaoXuan/vue_tetris)
   使用 vue 及 vuex 编写的俄罗斯方块游戏
+  
+- [all list](https://github.com/QiShaoXuan/qishaoxuan.github.io)
+  平常无聊写的东西
 
 ### 更多项目请移步[GitHub](https://github.com/QiShaoXuan)
