@@ -43,7 +43,7 @@ https://github.com/toeverything/AFFiNE
 
 2. **blocksuite**
    
-    - 作为 AFFiNE 的底层编辑器，负责了部分功能开发
+    - 作为 AFFiNE 的底层编辑器，负责了部分功能开发及日常迭代
       - 复制粘贴功能
       - bookmark block
 
