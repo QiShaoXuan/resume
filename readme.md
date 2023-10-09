@@ -9,20 +9,19 @@
 - 电话：18404984029
 - 邮箱：474021214@qq.com
 
-## 相关技能
-
-- HTML，CSS，javascript，typescript
-- jQuery，Vue.js，React.js 等前端库
-- radixUI，mui，antd 等快速开发工具
-- echart，storybook, jotai 等前端工具
-- threejs，cesiumjs 等 3d 模型开发库
-
 ## 工作经历
 
 - 2022-05 ~ 2023-09 - AFFiNE
 - 2019-11 ~ 2022-05 - 京东集团-平台业务研发部-应用业务产品研发部（职级：T6）
 - 2019-03 ~ 2019-11 - FinxOS
 - 2017.03 ~ 2019.03 - 上海垓方网络科技有限公司
+
+## 个人总结
+
+六年前端开发经验，
+github 独立开发维护 3.8k+ star 项目，负责开发维护了 22.5k+ star 项目，
+具备团队管理经验，熟悉互联网项目开发流程，
+熟练使用 ES6，typescript，熟悉 jQuery，Vue，React 等前端开发库，熟悉富文本编辑器开发，熟悉 threejs，cesiumjs 等 3D 模型开发库，熟练使用 EChart 等开发插件，了解小程序开发。
 
 ## 项目经验
 
@@ -47,7 +46,7 @@ https://github.com/toeverything/AFFiNE
       - 复制粘贴功能
       - bookmark block
 
-### 京东(2019-03 ~ 2020-05)
+### 京东(2019-11 ~ 2022-05)
 
 1. **秒杀频道大促会场开发及日常活动迭代**
 
