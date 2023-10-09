@@ -2,7 +2,7 @@
 
 - 姓名：齐少轩
 - 毕业院校及专业：山西农业大学（2013.09 ~ 2017.06） - 信息与计算科学
-- GitHub：https://github.com/QiShaoXuan
+- GitHub：[https://github.com/QiShaoXuan](https://github.com/QiShaoXuan)
 
 ## 联系方式
 

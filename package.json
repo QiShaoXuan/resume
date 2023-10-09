@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume of QiShaoXuan",
+  "main": "index.js",
+  "scripts": {
+    "md2html": "node md2html.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "prettier": "^3.0.3",
+    "showdown": "^2.1.0"
+  }
+}
